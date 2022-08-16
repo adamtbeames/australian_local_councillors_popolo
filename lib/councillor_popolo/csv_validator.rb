@@ -9,6 +9,7 @@ module CouncillorPopolo
       "council_website",
       "id",
       "email",
+      "phone",
       "image",
       "party",
       "source",
